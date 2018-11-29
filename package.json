@@ -1,0 +1,27 @@
+{
+  "name": "website-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeM85/Website-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeM85/Website-test/issues"
+  },
+  "homepage": "https://github.com/JoeM85/Website-test#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
